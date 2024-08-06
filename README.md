@@ -1,6 +1,4 @@
 
-
-
-<p align="right">
-<img src="https://visitcount.itsvg.in/api?id=quirrelforu&icon=2&color=3">
+<p align="center">
+<img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </p>
