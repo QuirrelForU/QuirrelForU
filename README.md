@@ -13,5 +13,7 @@
 <br>
 <img src="https://cdn.7tv.app/emote/65759cef726dad15bdaf1323/4x.webp"> 
 <br>
+<img src="https://cdn.7tv.app/emote/63b60f22d12c9b3aff91d416/3x.webp"> 
 <img src="https://cdn.7tv.app/emote/665c6fa7a4cae22f82d8ed29/4x.webp"> 
+<img src="https://cdn.7tv.app/emote/63b60f22d12c9b3aff91d416/3x.webp"> 
 </p>
