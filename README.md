@@ -22,5 +22,5 @@
 <img src="https://cdn.7tv.app/emote/63b60f22d12c9b3aff91d416/3x.webp"> 
 </p>
 <p align="center">
-  <img src=https://komarev.com/ghpvc/?username=QuirrelForU&color=green>
+  <img src=https://komarev.com/ghpvc/?username=QuirrelForU&color=green&style=for-the-badge>
 </p>
