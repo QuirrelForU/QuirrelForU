@@ -1,6 +1,7 @@
 
 <p align="center">
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img src="https://cdn.7tv.app/emote/65499c7fcf586d12ce2eceb0/1x.webp">
 <br>
 <img src="https://cdn.7tv.app/emote/65a5fa344ccf31a33fcee93d/4x.webp">  
 <br>
@@ -20,12 +21,4 @@
 <img src="https://cdn.7tv.app/emote/63b60f22d12c9b3aff91d416/3x.webp"> 
 <img src="https://cdn.7tv.app/emote/665c6fa7a4cae22f82d8ed29/4x.webp"> 
 <img src="https://cdn.7tv.app/emote/63b60f22d12c9b3aff91d416/3x.webp"> 
-<br>
-<br>
-<br>
-<br>
-<br>
-
-
-<img src="https://cdn.7tv.app/emote/65499c7fcf586d12ce2eceb0/4x.webp">
 </p>
