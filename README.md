@@ -27,5 +27,5 @@
 <br>
 
 
-<img src="https://cdn.7tv.app/emote/6351a0f233bc1a8948c8493a/4x.webp">
+<img src="https://cdn.7tv.app/emote/65499c7fcf586d12ce2eceb0/4x.webp">
 </p>
