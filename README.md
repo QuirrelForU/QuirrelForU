@@ -1,11 +1,14 @@
-
 <p align="center">
+<!---
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 <img src="https://cdn.7tv.app/emote/65499c7fcf586d12ce2eceb0/1x.webp">
+
 <br>
 <img src="https://cdn.7tv.app/emote/65a5fa344ccf31a33fcee93d/4x.webp">  
 <br>
+-->
 <img src="https://cdn.7tv.app/emote/66269008846f061542d540d5/4x.webp">  
+<!---
 <br>
 <img src="https://cdn.7tv.app/emote/642dc033d5322886daf71810/4x.webp"> 
 <img src="https://cdn.7tv.app/emote/65704fcd3e9b1ba89607c44e/4x.webp"> 
