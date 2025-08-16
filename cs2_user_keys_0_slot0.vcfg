@@ -1,0 +1,23 @@
+"config"
+{
+	"bindings"
+	{
+		"`"		"toggleconsole"
+		"MOUSE4"		"noclip"
+		"v"		"+voicerecord"
+		"c"		"slot6"
+		"t"		"+spray_menu"
+		"MWHEELDOWN"		"+jump"
+		"MWHEELUP"		"+jump"
+		"MOUSE1"		"+attack"
+		"x"		"slot7"
+		"z"		"slot8"
+		"ALT"		"player_ping"
+		"MOUSE3"		"<unbound>"
+		"h"		"toggleradarscale"
+		"j"		"+radialradio2"
+		"n"		"slot10"
+		"="		"slot12"
+		"MOUSE5"		"give weapon_ak47"
+	}
+}
